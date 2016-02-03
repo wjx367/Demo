@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3e4128113854a7da8e177985816d91af57da407">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0_620a78521c0b0c939b85bd68e6db4fa22e597db9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\umeng-analytics-v5.5.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.5.3_a352a3e16bff4931af26035abd684320cdfcb1b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\AMap_Android_3DMapSDK_V3.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2dfbf74b904ac868a4a282e3570314c1a38df9b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\AMap_Android_3DMapSDK_V3.1.1_84fb01058928eecc45e81bb541510ac5c41df96d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03e186fabdab66983e2b2aa42a2b2de7cb37dc4a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_661fa958e121fd63b7f4ba732b52b2ec9a8641a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_949448ed4eb0890b9fd27a5a6c09da4d8cc34ce8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.5.0_6ed5bb44bc664abe667dc37b5ba5da31d174b98c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\recyclerview-v7-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\recyclerview-v7-22.0.0_4a70c5925335aa53717557e2bbd2b16ba1cfa5c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\gson-2.3.1_887bbc057a8db2f4ce822f1b1d00bd8d6a484d71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\okio-1.6.0_ff3eb01a5d322f2b4f0910cdf1d61022b0745881.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_c8cf17504c3b97efa3ab12d72448126d046ad81b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_ce638f98ae234f59bed13720e0a7eac2914b27fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\fastjson-1.1.40.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf8b196dea0f5efa96adc81c047adf7b3d4633ed">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\fastjson-1.1.40_c0a7e3f0b6771c7586f4851c5f45101ba5a3a392.jar" />
+    </item>
+    <item
+        jar="F:\Android\sdkstudio\sdkstudio\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f01288b4edb1397c455fabe30992fac6412cf20f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\microlog4android-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2612759eba0e1da035e939922440bb4ef83972df">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\microlog4android-1.1_ff92a607391088f1b2a5e1fc065e1db86d468af6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\AMap_Search_V2.8.0_20160105.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3babc84b93ea0cb9ca53a4c4858a561fd300fe50">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\AMap_Search_V2.8.0_20160105_b9e835c288761e59d25ecae55b780e4a9679a3af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\volley_dafc7993a2e93aa72c4c46be4feaeeb7dd3a9246.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\Demo\app\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Demo\app\build\intermediates\pre-dexed\debug\AMap_Location_v2.3.0_20160112_eed61f9b062275a33f0d202d5e4f23d1ac627173.jar" />
+    </item>
+
+</items>

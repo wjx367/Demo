@@ -1,0 +1,8 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+    <com.example.administrator.demo.view.pullable.PullToRefreshLayout android:id="@+id/pull_to_refresh_layout" style="@style/Full" >
+        <com.example.administrator.demo.view.pullable.PullToRefreshHeaderLayout style="@style/Full" />
+        <com.example.administrator.demo.view.pullable.PullableListView android:id="@+id/list_view" style="@style/ListView" />
+        <com.example.administrator.demo.view.pullable.PullToRefreshFooterLayout style="@style/Full" />
+    </com.example.administrator.demo.view.pullable.PullToRefreshLayout>
+    <com.example.administrator.demo.view.pullable.ContentHolderView android:id="@+id/content_holder_view" style="@style/Block" android:layout_gravity="center" />
+</merge>

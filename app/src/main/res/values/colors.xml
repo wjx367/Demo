@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorbackground">#f4f4f4</color>
+    <!-- 下拉刷新控件的提示文字颜色 -->
+    <color name="playout_text_color">#5e5e5e</color>
+    <!-- 通用列表项背景颜色 -->
+    <color name="list_item_color_normal">#ffffff</color>
+    <color name="list_item_color_pressed">#f4f4f4</color>
+    <!-- 分割线颜色 -->
+    <color name="line_color">#cccccc</color>
+    <!-- 首页 -->
+    <color name="home_textcolor_blue">#456dad</color>
+    <color name="home_textcolor_gray">#20263c</color>
+    <color name="home_textcolor_orange">#f08519</color>
+    <!-- 引导页 -->
+    <color name="background">#FF1D2E5A</color>
+    <color name="guide_start_background">@color/background</color>
+    <color name="guide_end_background">#FF5494FC</color>
+    <color name="divider_selected">#ff0096e5</color>
+    <color name="item_background_pressed">#ff00a7ff</color>
+    <color name="main_pager_indicator_background">#ff494949</color>
+    <color name="main_pager_indicator_text_color">#4dffffff</color>
+    <color name="main_pager_indicator_text_color_selected">#ffffffff</color>
+    <color name="ptr_progress_bar">#ff83ccff</color>
+    <color name="spb_default_color">#ff33b5e5</color>
+    <color name="stroke_gray">#ffbbbbbb</color>
+    <color name="text_color_black">#ff444444</color>
+    <color name="text_color_blue">#ff108ff0</color>
+    <color name="text_color_blue_bright">#ff698ebf</color>
+    <color name="text_color_blue_dark">#ff0077d9</color>
+    <color name="text_color_blue_light">#ff5198bd</color>
+    <color name="text_color_gray">#ff999999</color>
+    <color name="text_color_gray_dark">#ff888888</color>
+    <color name="text_color_gray_deep">#ff666666</color>
+    <color name="text_color_gray_light">#ffb8b8b8</color>
+    <color name="text_color_orange">#ffff8752</color>
+    <color name="text_color_red">#ffcc3333</color>
+    <color name="text_color_white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <!-- 列表 -->
+    <color name="item_head_bg">#fef2da</color>
+    <color name="red_light">#820000</color>
+    <color name="global_text_color">#333333</color>
+    <color name="dialog_text_color">#ff712b</color>
+
+    <!-- 字体颜色 -->
+    <color name="tcolor_ff">#ffffff</color>
+    <color name="tcolor_yh">#ff712b</color>
+    <color name="tcolor_b1">#333333</color>
+    <color name="tcolor_b2">#666666</color>
+    <color name="tcolor_b4">#777777</color>
+    <color name="tcolor_b3">#999999</color>
+    <color name="tcolor_yl">#ff9630</color>
+    <color name="tcolor_hint">#d9d9d9</color>
+    <color name="tred">#ff002f</color>
+
+</resources>

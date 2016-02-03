@@ -1,0 +1,4 @@
+include ':app', 'Android-ViewPagerIndicator'
+
+include ':libraries/Volley'
+include ':libraries/okhttp-2.5.0'

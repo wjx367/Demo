@@ -1,0 +1,103 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+         Customize your theme here.
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+    <style name="SwipeBackLayout">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Full">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="ListView" parent="@style/Full">
+        <item name="android:headerDividersEnabled">false</item>
+        <item name="android:footerDividersEnabled">true</item>
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">#cccccc</item>
+        <item name="android:dividerHeight">1px</item>
+        <item name="android:textColor">#666666</item>
+    </style>
+    <style name="Block">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="PlayoutHeaderText" parent="@style/HorizontalInline">
+        <item name="android:gravity">center</item>
+        <item name="android:background">#f4f4f4</item>
+        <item name="android:layout_height">@dimen/playout_header_height</item>
+    </style>
+    <style name="HorizontalInline" parent="@style/Inline">
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="Inline">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="PlayoutStateText" parent="@style/Block">
+        <item name="android:textColor">@color/playout_text_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+    <style name="VerticalBlock" parent="@style/Block">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="VerticalFull" parent="@style/Full">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="selfCenterSquareStyle">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/list_item_color_bg</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="gridText">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+    <!-- 2px的竖线 -->
+    <style name="VerticalLine" >
+        <item name="android:layout_width">2px</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/line_color</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Text.Title_Button" parent="@style/Text">
+        <item name="android:textColor">@color/global_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Title" parent="@style/Text">
+        <item name="android:textColor">@color/global_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Line" >
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/line_color</item>
+    </style>
+
+</resources>

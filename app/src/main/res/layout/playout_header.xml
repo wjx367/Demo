@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/PlayoutHeaderText"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timer_tv"
+        android:layout_marginRight="20dp"
+        android:text=""
+        />
+    <FrameLayout
+        style="@style/Block"
+        android:layout_gravity="center" >
+
+
+        <ImageView
+            android:id="@+id/arrowdown_imageview"
+            style="@style/Block"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_pulldown" />
+
+        <FrameLayout
+            android:id="@+id/loading_layout"
+                style="@style/Block"
+                android:visibility="gone"
+            android:layout_gravity="center"
+            android:gravity="center"
+            >
+            <!--             <ImageView  -->
+            <!--                 style="@style/Block" -->
+            <!--                 android:src="@drawable/icon_load_logo" -->
+            <!--                 /> -->
+            <ImageView
+                android:id="@+id/loading_imageview"
+                style="@style/Block"
+                android:src="@drawable/icon_loading"
+                />
+            <!-- 	            android:src="@drawable/icon_load_circle" -->
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/state_imageview"
+            style="@style/Block"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/state_textview"
+        style="@style/PlayoutStateText"
+        android:text="下拉刷新" />
+
+</LinearLayout>

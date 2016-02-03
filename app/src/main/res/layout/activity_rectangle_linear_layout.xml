@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sq="http://schemas.android.com/apk/res-auto"
+    style="@style/VerticalFull"
+    android:background="#f4f4f4">
+    <com.example.administrator.demo.activity.RectangleLinearLayout
+        android:layout_marginTop="10dp"
+        sq:cloumns="2"
+        style="@style/HorizontalInline">
+             <com.example.administrator.demo.activity.base.SquareLinearLayout
+                 android:id="@+id/real_name"
+            style="@style/selfCenterSquareStyle"
+            >
+            <TextView
+                style="@style/gridText"
+                android:text="实名认证"/>
+             </com.example.administrator.demo.activity.base.SquareLinearLayout>
+        <View style="@style/VerticalLine" android:layout_width="10dp" android:background="#f4f4f4"/>
+        <com.example.administrator.demo.activity.base.SquareLinearLayout
+            android:id="@+id/bank_card"
+            style="@style/selfCenterSquareStyle"
+            >
+            <TextView
+                style="@style/gridText"
+                android:text="绑定银行卡"/>
+        </com.example.administrator.demo.activity.base.SquareLinearLayout>
+
+    </com.example.administrator.demo.activity.RectangleLinearLayout>
+
+    <com.example.administrator.demo.activity.RectangleLinearLayout
+        android:layout_marginTop="10dp"
+        sq:cloumns="2"
+        style="@style/HorizontalInline">
+        <com.example.administrator.demo.activity.base.SquareLinearLayout
+            style="@style/selfCenterSquareStyle"
+            >
+            <TextView
+                style="@style/gridText"
+                android:text="投资1元"/>
+        </com.example.administrator.demo.activity.base.SquareLinearLayout>
+        <View style="@style/VerticalLine" android:layout_width="10dp" android:background="#f4f4f4"/>
+        <com.example.administrator.demo.activity.base.SquareLinearLayout
+
+            style="@style/selfCenterSquareStyle"
+            >
+            <TextView
+                style="@style/gridText"
+                android:text="邀请好友"/>
+        </com.example.administrator.demo.activity.base.SquareLinearLayout>
+
+    </com.example.administrator.demo.activity.RectangleLinearLayout>
+
+
+</LinearLayout>
